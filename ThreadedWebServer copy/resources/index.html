@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <title>ChatRoom</title>
+    <link rel="shortcut icon" href="#">
+</head>
+<body>
+<div class="whole">
+    <div class="topWrapper">
+        Your name:
+        <label style="font-size: 20px" for="username"></label><input class="inputBar" id="username">
+        Chat Room:
+        <label style="font-size: 20px" for="roomName"></label><input class="inputBar" id="roomName">
+        <button class="btn" style="background-color: aqua" id="join">Join</button>
+    </div>
+
+    <div id="middleWrapper">
+        <header id= "chatRoom"  >Chat room</header>
+        <div class="boxWrapper">
+            <div class="rectangle" id="leftRectangle">
+                <p class="title" id="people">People in room</p>
+            </div>
+            <div class="rectangle" id="rightRectangle">
+                <p class="title">Message</p>
+            </div>
+        </div>
+    </div>
+
+
+    <label for="inputBar"></label><input class="inputBar" id="inputBar">
+    <button class="btn" style="background-color: aqua" id="sendBtn">Send</button>
+    <button class="btn" style="background-color: salmon" id="leave">leave</button>
+    <script src="webSocketConn.js"></script>
+</div>
+</body>
+</html>

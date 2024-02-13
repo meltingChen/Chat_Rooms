@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="510ff66a-f2e7-4838-adbb-ba7d25a56814" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Day11/Lecture 11.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day11/Lecture 11.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day12/NotTheBees/js/beeGame.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day12/NotTheBees/js/beeGame.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day12/Sorting/js/Sorting.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day12/Sorting/js/Sorting.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day13/Calculator/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day13/Calculator/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_16-Threading.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_16-Threading.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Room.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/connectionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/connectionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Threads/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Threads/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day2/Lecture 2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day2/Lecture 2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day21/Adventure/src/Game/Adventure.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day21/Adventure/src/Game/Adventure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day21/Adventure/src/Rooms/Basement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day21/Adventure/src/Rooms/Basement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day21/Adventure/src/Rooms/dressingRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day21/Adventure/src/Rooms/dressingRoom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day22/HelloAndroid/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day22/HelloAndroid/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day22/HelloAndroid/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day22/HelloAndroid/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day22/HelloAndroid/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day22/HelloAndroid/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day22/app/src/main/java/com/example/androidchatclient/chatMessages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day22/app/src/main/java/com/example/androidchatclient/loginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day22/app/src/main/res/layout/activity_chat_messages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day22/app/src/main/res/layout/activity_login_page.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Lecture 3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day3/Lecture 3.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day4/Lecture 4.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day4/Lecture 4.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day4/MyHttpServer/src/HTTPRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day4/MyHttpServer/src/HTTPRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day4/MyHttpServer/src/HTTPResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day4/MyHttpServer/src/HTTPResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day4/MyHttpServer/src/MyHttpServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day4/MyHttpServer/src/MyHttpServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day4/MyHttpServer/src/TreadWorker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5/Lecture 5.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5/Lecture 5.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day6/Synthesizer/Synthesizer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day6/Synthesizer/Synthesizer/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jrt:///opt/homebrew/Cellar/openjdk/21/libexec/openjdk.jdk/Contents/Home!/jdk.javadoc/jdk/javadoc/internal/doclets/formats/html/resources/script-dir/jquery-ui.js" root0="SKIP_INSPECTION" />
+    <setting file="jar:///opt/homebrew/Cellar/openjdk/21/libexec/openjdk.jdk/Contents/Home/lib/src.zip!/java.base/java/io/FileNotFoundException.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///opt/homebrew/Cellar/openjdk/21/libexec/openjdk.jdk/Contents/Home/lib/src.zip!/java.base/java/io/InputStream.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2XFAdFi2JgQR8ZRL0HeftS85fkz" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/christina/Desktop/MSD/CS6011/Day17/ThreadedWebServer&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/christina/Desktop/MSD/CS6011/Day17/ThreadedWebServer/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="WebsocketServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WebsocketServer" />
+      <module name="ThreadedWebServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WebsocketServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="510ff66a-f2e7-4838-adbb-ba7d25a56814" name="Changes" comment="" />
+      <created>1698214541073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698214541073</updated>
+      <workItem from="1698214542240" duration="10487000" />
+      <workItem from="1698334490182" duration="17907000" />
+      <workItem from="1698377157339" duration="104041000" />
+      <workItem from="1699017220501" duration="5909000" />
+      <workItem from="1699598209338" duration="6254000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WSRequest.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
